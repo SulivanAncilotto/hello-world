@@ -1,2 +1,2 @@
-Nome = input("Informe um nome")
+Nome = input(float('Informe um Nome')
 print(nome)
